@@ -1,0 +1,15 @@
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/bin/Debug/net10.0/LabServer.CsvGenerator
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/bin/Debug/net10.0/LabServer.CsvGenerator.deps.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/bin/Debug/net10.0/LabServer.CsvGenerator.runtimeconfig.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/bin/Debug/net10.0/LabServer.CsvGenerator.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/bin/Debug/net10.0/LabServer.CsvGenerator.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.AssemblyInfoInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.AssemblyInfo.cs
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.csproj.CoreCompileInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.sourcelink.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/refint/LabServer.CsvGenerator.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/LabServer.CsvGenerator.genruntimeconfig.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.CsvGenerator/obj/Debug/net10.0/ref/LabServer.CsvGenerator.dll

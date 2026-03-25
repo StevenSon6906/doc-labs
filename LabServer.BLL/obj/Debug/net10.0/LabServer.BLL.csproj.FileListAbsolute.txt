@@ -1,0 +1,16 @@
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/bin/Debug/net10.0/LabServer.BLL.deps.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/bin/Debug/net10.0/LabServer.BLL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/bin/Debug/net10.0/LabServer.BLL.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/bin/Debug/net10.0/LabServer.DAL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/bin/Debug/net10.0/LabServer.DAL.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.csproj.AssemblyReference.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.AssemblyInfoInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.AssemblyInfo.cs
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.csproj.CoreCompileInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.sourcelink.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServe.5A595A3A.Up2Date
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/refint/LabServer.BLL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/LabServer.BLL.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.BLL/obj/Debug/net10.0/ref/LabServer.BLL.dll
