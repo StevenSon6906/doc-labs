@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LabServer.BLL/LabServer.BLL.csproj" />
+  <Project Path="LabServer.CsvGenerator/LabServer.CsvGenerator.csproj" />
+  <Project Path="LabServer.DAL/LabServer.DAL.csproj" />
+  <Project Path="LabServer.Presentation/LabServer.Presentation.csproj" />
+</Solution>

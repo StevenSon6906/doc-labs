@@ -1,0 +1,15 @@
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/bin/Debug/net10.0/LabServer.DAL.deps.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/bin/Debug/net10.0/LabServer.DAL.runtimeconfig.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/bin/Debug/net10.0/LabServer.DAL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/bin/Debug/net10.0/LabServer.DAL.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.csproj.AssemblyReference.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.AssemblyInfoInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.AssemblyInfo.cs
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.csproj.CoreCompileInputs.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.sourcelink.json
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/refint/LabServer.DAL.dll
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.pdb
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/LabServer.DAL.genruntimeconfig.cache
+/Users/arsenshulak/Projects/doc-labs/LabServer.DAL/obj/Debug/net10.0/ref/LabServer.DAL.dll
