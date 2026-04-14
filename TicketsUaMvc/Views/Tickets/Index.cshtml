@@ -1,0 +1,47 @@
+@model IEnumerable<TicketsUaMvc.Models.Ticket>
+
+@{
+    ViewData["Title"] = "Список квитків";
+}
+
+<h1>Список квитків</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Додати новий квиток</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Тип транспорту</th>
+            <th>Звідки</th>
+            <th>Куди</th>
+            <th>Час відправлення</th>
+            <th>Час прибуття</th>
+            <th>Ціна</th>
+            <th>Перевізник</th>
+            <th>Вільні місця</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.TransportType</td>
+            <td>@item.FromCity</td>
+            <td>@item.ToCity</td>
+            <td>@item.DepartureTime</td>
+            <td>@item.ArrivalTime</td>
+            <td>@item.Price</td>
+            <td>@item.Carrier</td>
+            <td>@item.AvailableSeats</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

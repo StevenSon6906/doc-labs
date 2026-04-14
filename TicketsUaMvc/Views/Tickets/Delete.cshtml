@@ -1,0 +1,44 @@
+@model TicketsUaMvc.Models.Ticket
+
+@{
+    ViewData["Title"] = "Видалити квиток";
+}
+
+<h1>Видалити квиток</h1>
+
+<h3 class="text-danger">Ви впевнені, що хочете видалити цей запис?</h3>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Тип транспорту</dt>
+        <dd class="col-sm-9">@Model.TransportType</dd>
+
+        <dt class="col-sm-3">Місто відправлення</dt>
+        <dd class="col-sm-9">@Model.FromCity</dd>
+
+        <dt class="col-sm-3">Місто прибуття</dt>
+        <dd class="col-sm-9">@Model.ToCity</dd>
+
+        <dt class="col-sm-3">Час відправлення</dt>
+        <dd class="col-sm-9">@Model.DepartureTime</dd>
+
+        <dt class="col-sm-3">Час прибуття</dt>
+        <dd class="col-sm-9">@Model.ArrivalTime</dd>
+
+        <dt class="col-sm-3">Ціна</dt>
+        <dd class="col-sm-9">@Model.Price</dd>
+
+        <dt class="col-sm-3">Перевізник</dt>
+        <dd class="col-sm-9">@Model.Carrier</dd>
+
+        <dt class="col-sm-3">Вільні місця</dt>
+        <dd class="col-sm-9">@Model.AvailableSeats</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Видалити</button>
+        <a asp-action="Index" class="btn btn-secondary">Скасувати</a>
+    </form>
+</div>
