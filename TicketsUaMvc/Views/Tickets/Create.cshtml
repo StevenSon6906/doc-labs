@@ -1,0 +1,73 @@
+@model TicketsUaMvc.Models.Ticket
+
+@{
+    ViewData["Title"] = "Додати квиток";
+}
+
+<h1>Додати квиток</h1>
+
+<h4>Новий квиток</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="TransportType" class="form-label"></label>
+                <input asp-for="TransportType" class="form-control" />
+                <span asp-validation-for="TransportType" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="FromCity" class="form-label"></label>
+                <input asp-for="FromCity" class="form-control" />
+                <span asp-validation-for="FromCity" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ToCity" class="form-label"></label>
+                <input asp-for="ToCity" class="form-control" />
+                <span asp-validation-for="ToCity" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="DepartureTime" class="form-label"></label>
+                <input asp-for="DepartureTime" type="datetime-local" class="form-control" />
+                <span asp-validation-for="DepartureTime" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ArrivalTime" class="form-label"></label>
+                <input asp-for="ArrivalTime" type="datetime-local" class="form-control" />
+                <span asp-validation-for="ArrivalTime" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Carrier" class="form-label"></label>
+                <input asp-for="Carrier" class="form-control" />
+                <span asp-validation-for="Carrier" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="AvailableSeats" class="form-label"></label>
+                <input asp-for="AvailableSeats" class="form-control" />
+                <span asp-validation-for="AvailableSeats" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Зберегти</button>
+            <a asp-action="Index" class="btn btn-secondary">Назад</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

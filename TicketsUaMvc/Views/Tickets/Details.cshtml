@@ -1,0 +1,41 @@
+@model TicketsUaMvc.Models.Ticket
+
+@{
+    ViewData["Title"] = "Деталі квитка";
+}
+
+<h1>Деталі квитка</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Тип транспорту</dt>
+        <dd class="col-sm-9">@Model.TransportType</dd>
+
+        <dt class="col-sm-3">Місто відправлення</dt>
+        <dd class="col-sm-9">@Model.FromCity</dd>
+
+        <dt class="col-sm-3">Місто прибуття</dt>
+        <dd class="col-sm-9">@Model.ToCity</dd>
+
+        <dt class="col-sm-3">Час відправлення</dt>
+        <dd class="col-sm-9">@Model.DepartureTime</dd>
+
+        <dt class="col-sm-3">Час прибуття</dt>
+        <dd class="col-sm-9">@Model.ArrivalTime</dd>
+
+        <dt class="col-sm-3">Ціна</dt>
+        <dd class="col-sm-9">@Model.Price</dd>
+
+        <dt class="col-sm-3">Перевізник</dt>
+        <dd class="col-sm-9">@Model.Carrier</dd>
+
+        <dt class="col-sm-3">Вільні місця</dt>
+        <dd class="col-sm-9">@Model.AvailableSeats</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Редагувати</a>
+    <a asp-action="Index" class="btn btn-secondary">Назад до списку</a>
+</div>
