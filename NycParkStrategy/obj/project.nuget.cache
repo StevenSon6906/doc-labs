@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "sx/w2q9nCCg=",
+  "success": true,
+  "projectFilePath": "/Users/arsenshulak/Projects/doc-labs/NycParkStrategy/NycParkStrategy.csproj",
+  "expectedPackageFiles": [
+    "/Users/arsenshulak/.nuget/packages/confluent.kafka/2.14.0/confluent.kafka.2.14.0.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/csvhelper/33.1.0/csvhelper.33.1.0.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/librdkafka.redist/2.14.0/librdkafka.redist.2.14.0.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.configuration/10.0.7/microsoft.extensions.configuration.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.7/microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.7/microsoft.extensions.configuration.fileextensions.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.configuration.json/10.0.7/microsoft.extensions.configuration.json.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.7/microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.7/microsoft.extensions.fileproviders.physical.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.7/microsoft.extensions.filesystemglobbing.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/microsoft.extensions.primitives/10.0.7/microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/stackexchange.redis/2.12.14/stackexchange.redis.2.12.14.nupkg.sha512",
+    "/Users/arsenshulak/.nuget/packages/system.io.hashing/10.0.2/system.io.hashing.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
